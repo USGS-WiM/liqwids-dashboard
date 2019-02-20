@@ -1,0 +1,32 @@
+[
+	{
+		"org_name": "USGS New York Water Science Center",
+		"last_submit": "12/31/2018",
+		"num_samples": 1063
+	},
+	{
+		"org_name": "National Park Service Water Resources Division",
+		"last_submit": "2018-08-28",
+		"num_samples": 752
+	},
+	{
+		"org_name": "New York State Department of Health",
+		"last_submit": "2018-11-30",
+		"num_samples": 266
+	},
+	{
+		"org_name": "USGS Georgia Water Science Center",
+		"last_submit": "2016-03-08",
+		"num_samples": 1
+	},
+	{
+		"org_name": "Interstate Environmental Commission",
+		"last_submit": "5/29/2018",
+		"num_samples": 169
+	},
+	{
+		"org_name": "EPA Region 2",
+		"last_submit": "2016-08-21",
+		"num_samples": 24
+	}
+]

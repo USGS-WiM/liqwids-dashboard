@@ -1,1 +1,72 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+#errorMessage {
+    color: red;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.example-container{
+    border: none important;
+    box-shadow: none !important;
+}
+
+.mat-expansion-panel{
+    box-shadow: none !important;
+    margin: 0 !important;
+    border-bottom: 2px solid #ECECF0;
+}
+
+.mat-table {
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+}
+
+.mat-header-cell {
+    color: rgba(0,0,0,.54);
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.mat-cell {
+    margin-right: 10px;
+}
+
+.title {
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+#count {
+    color: rgba(0,0,0,.54)
+}
+
+.filter {
+    padding-left: 10px;
+}
+
+.nav-brand {
+    color: #fff;
+    font-size: 18pt;
+    font-family: 'Montserrat',sans-serif;
+    letter-spacing: -1px;
+    margin: 0 auto;
+    padding: 0;
+    vertical-align: middle;
+    font-weight: 300;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+nav.nav-main {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 40px;
+    background-color: #252830;
+}
